@@ -1,11 +1,15 @@
 {
   "name": "react-hooks-react-router-code-along",
-  "version": "0.1.0",
+  "version": "",
   "private": true,
+  "engines": {
+    "node": "18"
+  },
   "dependencies": {
     "json-server": "^1.0.0-alpha.23",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.23.1",
     "react-scripts": "^5.0.1"
   },
   "scripts": {
